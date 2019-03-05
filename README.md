@@ -1,6 +1,6 @@
 This app calculates a Banana Budget for Bob.
 
-Installation: After cloning cd into the banana_budget folder and ```npm install```. 
+Installation: After cloning, cd into the banana_budget folder and ```npm install```. 
 This should install all dependencies including express and moment.
 Run with ```node app.js``` in the banana_budget folder.
 
